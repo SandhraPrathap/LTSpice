@@ -1,0 +1,9 @@
+Circuit: * C:\users\sandhra\My Documents\LTspiceXVII\Draft9.asc
+
+Error on line 2 : r§1 v1 0 r
+	 Unable to find definition of model "r"
+Error on line 3 : r§0.5 v2 0 r
+	 Unable to find definition of model "r"
+Error on line 7 : i3 v2 v1 -2*v(v1)
+	 Unknown parameter "*v"
+Fatal Error: Missing resistance value for "0.5"

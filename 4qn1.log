@@ -1,0 +1,64 @@
+Circuit: * C:\users\sandhra\My Documents\LTspiceXVII\4qn1.asc
+
+Limiting rise time of source v1 to 5e-008
+Limiting fall time of source v1 to 5e-008
+WARNING: Less than two connections to node U1:DP.  This node is used by A:U1:DDEL.
+WARNING: Less than two connections to node NC_01.  This node is used by R:U1:OUT2:OUT.
+WARNING: Less than two connections to node U2:DP.  This node is used by A:U2:DDEL.
+WARNING: Less than two connections to node NC_02.  This node is used by R:U2:OUT2:OUT.
+WARNING: Less than two connections to node U3:DP.  This node is used by A:U3:DDEL.
+WARNING: Less than two connections to node NC_03.  This node is used by R:U3:OUT2:OUT.
+WARNING: Less than two connections to node U4:DP.  This node is used by A:U4:DDEL.
+WARNING: Less than two connections to node NC_04.  This node is used by R:U4:OUT2:OUT.
+WARNING: Less than two connections to node U5:DP.  This node is used by A:U5:DDEL.
+WARNING: Less than two connections to node NC_05.  This node is used by R:U5:OUT2:OUT.
+WARNING: Less than two connections to node U6:DP.  This node is used by A:U6:DDEL.
+WARNING: Less than two connections to node NC_06.  This node is used by R:U6:OUT2:OUT.
+WARNING: Less than two connections to node U7:DP.  This node is used by A:U7:DDEL.
+WARNING: Less than two connections to node NC_07.  This node is used by R:U7:OUT2:OUT.
+WARNING: Less than two connections to node U8:DP.  This node is used by A:U8:DDEL.
+WARNING: Less than two connections to node NC_08.  This node is used by R:U8:OUT1:OUT.
+WARNING: Less than two connections to node X.  This node is used by R:U12:OUT:OUT.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u6:vcc)
+Ignoring empty pin current: Ix(u7:vcc)
+Ignoring empty pin current: Ix(u8:vcc)
+Ignoring empty pin current: Ix(u9:vcc)
+Ignoring empty pin current: Ix(u10:vcc)
+Ignoring empty pin current: Ix(u11:vcc)
+Ignoring empty pin current: Ix(u12:vcc)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u6:vcc)
+Ignoring empty pin current: Ix(u7:vcc)
+Ignoring empty pin current: Ix(u8:vcc)
+Ignoring empty pin current: Ix(u9:vcc)
+Ignoring empty pin current: Ix(u10:vcc)
+Ignoring empty pin current: Ix(u11:vcc)
+Ignoring empty pin current: Ix(u12:vcc)
+
+Date: Wed Jan 20 13:59:54 2021
+Total elapsed time: 10.238 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 94116
+traniter = 94103
+tranpoints = 38141
+accept = 32423
+rejected = 5718
+matrix size = 292
+fillins = 2
+solver = Normal
+Matrix Compiler1: 7.57 KB object code size  10.9/4.6/[2.1]
+Matrix Compiler2: 14.73 KB object code size  5.4/9.7/[2.5]
+

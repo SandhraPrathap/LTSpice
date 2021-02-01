@@ -1,0 +1,4 @@
+Circuit: * C:\users\sandhra\My Documents\LTspiceXVII\4qn.asc
+
+Fatal Error: Port(pin) count mismatch between the definition of subcircuit "74hc74" and instance: "xa1"
+The instance has more connection terminals than the definition.

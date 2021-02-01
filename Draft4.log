@@ -1,0 +1,28 @@
+Circuit: * C:\users\sandhra\My Documents\LTspiceXVII\Draft4.asc
+
+Limiting rise time of source v2 to 0.0005
+Limiting fall time of source v2 to 0.0005
+Limiting rise time of source v1 to 0.0002
+Limiting fall time of source v1 to 0.0002
+WARNING: Less than two connections to node NC_01.  This node is used by R:U1:OUT:OUT.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u1:vcc)
+
+Date: Tue Sep 15 12:25:43 2020
+Total elapsed time: 0.165 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5428
+traniter = 5425
+tranpoints = 1992
+accept = 1777
+rejected = 215
+matrix size = 17
+fillins = 0
+solver = Normal
+Matrix Compiler1: 444 bytes object code size  0.5/0.3/[0.2]
+Matrix Compiler2: 875 bytes object code size  0.2/0.4/[0.2]
+

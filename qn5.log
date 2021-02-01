@@ -1,0 +1,39 @@
+Circuit: * C:\users\sandhra\My Documents\LTspiceXVII\qn5.asc
+
+Limiting rise time of source v2 to 0.05
+Limiting fall time of source v2 to 0.05
+WARNING: Less than two connections to node U1:DP.  This node is used by A:U1:DDEL.
+WARNING: Less than two connections to node A.  This node is used by R:U1:OUT1:OUT.
+WARNING: Less than two connections to node U2:DP.  This node is used by A:U2:DDEL.
+WARNING: Less than two connections to node U3:DP.  This node is used by A:U3:DDEL.
+WARNING: Less than two connections to node R.  This node is used by R:U5:OUT:OUT.
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+Ignoring empty pin current: Ix(u1:vcc)
+Ignoring empty pin current: Ix(u2:vcc)
+Ignoring empty pin current: Ix(u3:vcc)
+Ignoring empty pin current: Ix(u4:vcc)
+Ignoring empty pin current: Ix(u5:vcc)
+
+Date: Wed Jan 20 17:15:05 2021
+Total elapsed time: 1.739 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 58204
+traniter = 58195
+tranpoints = 16658
+accept = 12828
+rejected = 3830
+matrix size = 116
+fillins = 4
+solver = Normal
+Thread vector: 19.1/13.0[4] 8.5/6.4[4] 6.6/5.3[4] 0.9/2.6[1]  2592/500
+Matrix Compiler1: 3.02 KB object code size  4.3/2.1/[0.7]
+Matrix Compiler2: 5.92 KB object code size  1.9/3.7/[1.1]
+
